@@ -1,1 +1,259 @@
-hello world!
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Anisul Islam</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+    <link href="css/resume.min.css" rel="stylesheet" media="screen">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:600|Roboto+Condensed:300,400" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <div class="container">
+      <div id="avatar-wrap">
+        <img class="pic" src="images/raine.jpg" />
+      </div>
+      <div id="header">
+        <h1>Anisul Islam</h1>
+        <h2 class="subtitle"><i class="icon-arrow-right"></i>Coder & Web Developer</h2>
+      </div> <!-- header -->
+
+      <div class="personal">
+        <ul>
+          <li>
+            <span class="mail">
+              <i class="icon-mail"></i> <a href="mailto:raine.virta@gmail.com">anis.2803@gmail.com</a>
+            </span>
+          </li>
+          <li>
+            <span class="phone">
+              <i class="icon-mobile"></i> +880 1670924755
+            </span>
+          </li>
+          <li>
+            <span class="location">
+              <i class="icon-location"></i> Dhaka, Bangladesh
+            </span>
+          </li>
+        </ul>
+
+        <ul id="social">
+          <li>
+            <span class="github">
+              <i class="icon-github-2"></i><a href="http://github.com/anisul">GitHub</a>
+            </span>
+          </li>
+          <li>
+            <span class="facebook">
+              <i class="icon-facebook"></i><a href="http://facebook.com/anis.cse">Facebook</a>
+            </span>
+          </li>
+          <li>
+            <span class="linkedin">
+              <i class="icon-linkedin"></i><a href="https://bd.linkedin.com/in/anisul-islam-539a1760">LinkedIn</a>
+            </span>
+          </li>
+        </ul>
+      </div>
+
+      <div class="row">
+        <div id="employment" class="timeline span6">
+          <h2>Experience</h2>
+          <h3>
+            Nilavo Technologies Limited
+            <span class="job-title">Junior Software Engineer</span>
+          </h3>
+          <span class="time-period">November 2014 – Present</span>
+
+          <p>
+			Working in a development team which works on multiple on-premises or private cloud based enterprise file sync and share (EFSS) solutions to keeps data safe and secure within own corporate infrastructure and yet provides flexibility and scalability to meet the needs of internal users.
+          </p>
+
+          <!--
+		  <p>
+            Fun things created on free time:
+            <a href="https://www.habbo.com/giffer/#/">Habbo Giffer</a>,
+            <a href="http://raine.github.io/explorer">Selfie Explorer</a>,
+            <a href="https://www.habbo.com/mosaic/">Habbo Mosaic</a>
+          </p> 
+		  -->
+          <h3>
+            Nilavo Technologies Limited
+            <span class="job-title">Software Developer Intern</span>
+          </h3>
+          <span class="time-period">October 2013 – December 2013</span>
+
+          <a id="fancybox-devhub" class="thumb">
+            <img src="images/devhub-thumb.png" />
+          </a>
+          <p>
+            Developed and designed apps for Blaast's cloud-powered mobile
+            platform. Built Blaast DevHub with Rails, a web frontend used by
+            3rd-party developers to streamline app publishing.
+          </p>
+          <h3>Nodeta Oy
+            <span class="job-title">Web Software Developer</span>
+          </h3>
+          <span class="time-period">April 2009 – March 2011</span>
+          <p>
+            I was part of the team working on building a web application for tracking project tasks status for Nilavo Technologies Ltd. 
+          </p>
+        </div> <!-- employment -->
+        <div id="skills" class="span6">
+          <h2>Skills</h2>
+          <dl>
+            <dt>
+              Languages
+              <i class="icon-code"></i>
+            </dt>
+            <dd>
+              <ul id="languages">
+                <li class="l1">JavaScript</li>
+                <li class="l1">Java</li>
+                <li class="l1">PHP</li>
+                <li class="l1">C++</li>
+                <li class="l2">Python</li>
+                <li class="l3">C</li>
+              </ul>
+
+              <p class="natural">
+                Native in Bangla. Fluent in spoken and written English. Picking up German in spare time.
+              <p>
+            </dd>
+
+            <dt>
+              Assorted Buzzwords
+              <i class="icon-magic"></i>
+            </dt>
+            <dd>
+              <p>
+                Spring MVC, Spring Data, Hibernate, AngularJS, HTML, CSS, SCSS, LESS, jQuery,
+                Node.js
+              </p>
+
+              <p>
+                API Development, Servlets, UI/UX dev, Acceptance Testing, Linux Administration (Ubuntu), Apache, 
+				JMeter, PostgreSQL
+              </p>
+            </dd>
+
+            <dt>
+              Databases
+              <i class="icon-database"></i>
+            </dt>
+            <dd>PostgreSQL, MSSQL, SQL</dd>
+
+            <dt>
+              Tools
+              <i class="icon-tools"></i>
+            </dt>
+            <dd>IntelliJ IDEA, Eclipse, Git, vim</dd>
+          </dl>
+        </div> <!-- skills -->
+      </div> <!-- row -->
+      <div class="row">
+        <div id="education" class="oneline-timeline span6">
+          <h2>Education</h2>
+          <h3>Islamic University of Technology</h3>
+          <span class="time-period">2010 – 2014</span>
+          <h3>Notre Dame College</h3>
+          <span class="time-period">2008 – 2010</span>
+
+          <h2>Hobbies</h2>
+          <p>I like to read books and ride bikes.</p>
+        </div> <!-- education -->
+        <div id="projects" class="span6">
+          <!--<h2>Projects & Open Source</h2>
+          <div class="major">
+            <h3>
+              <a href="https://chrome.google.com/webstore/detail/memrise-button/mahhgdkliaknjffpmocpaglcoljnhodn">
+                Memrise Button
+              </a>
+            </h3>
+            <p>An unofficial Chrome Extension for Memrise.com.</p>
+          </div>
+          <div class="major">
+            <h3>
+              <a href="https://github.com/ramda/ramda">
+                Ramda
+              </a>
+            </h3>
+            <p>
+              I sometimes contribute to Ramda, a practical functional library
+              for JavaScript programmers. Related projects:
+              <a href="https://github.com/raine/ramda-cli">ramda-cli</a>,
+              <a href="https://github.com/raine/alfred-ramda-workflow">alfred-ramda-workflow</a>,
+              <a href="https://github.com/raine/ramda-destruct">ramda-destruct</a>,
+              <a href="https://github.com/raine/ramda-t">ramda-t</a>,
+              <a href="https://github.com/raine/ram-bot">ram-bot</a>.
+            </p>
+          </div>
+          <div class="major">
+            <h3>
+              <a href="https://github.com/raine/ramda-cli">
+                ramda-cli
+              </a>
+            </h3>
+            <p>
+              A CLI tool for processing data with functional pipelines.
+              Written in LiveScript.
+            </p>
+          </div>
+          <div class="major">
+            <h3>
+              <a href="https://github.com/anisul/ngen">
+                nGen
+              </a>
+            </h3>
+            <p>
+              Token Generator.
+            </p>
+          </div>
+          <div class="major">
+            <h3>
+              <a href="https://github.com/raine/reittiopas">
+                Reittiopas
+              </a>
+            </h3>
+            <p>A Ruby library for the Reittiopas GET API.</p>
+          </div>
+          <ul class="minor">
+            <li><a href="https://github.com/raine/ez-jenkins">ez-jenkins</a></li>
+            <li><a href="https://github.com/raine/treis">treis</a></li>
+            <li><a href="https://github.com/raine/taim">taim</a></li>
+            <li><a href="https://github.com/raine/tmpl-cli">tmpl-cli</a></li>
+            <li><a href="https://github.com/raine/cli-goodies">cli-goodies</a></li>
+            <li><a href="https://github.com/raine/tunnit">tunnit</a></li>
+            <li><a href="https://github.com/raine/flyd-playground">flyd-playground</a></li>
+            <li><a href="https://github.com/raine/triangles">triangles</a></li>
+            <li><a href="https://github.com/raine/snipget">snipget</a></li>
+            <li><a href="https://github.com/jsn/rbot/commits/master/?author=rane@kapsi.fi">rbot</a></li>
+            <li><a href="https://github.com/raine/memrise-forgive-typos">memrise-forgive-typos</a></li>
+            <li><a href="https://github.com/raine/memrise-hotkeys">memrise-hotkeys</a></li>
+            <li><a href="https://github.com/raine/websearch.vim">websearch.vim</a></li>
+            <li><a href="https://github.com/raine/irccloud-alwaysmarkread">irccloud-alwaysmarkread</a></li>
+            <li><a href="https://github.com/raine/irccloud-bufswitch">irccloud-bufswitch</a></li>
+          </ul> -->
+        </div> <!-- projects -->
+      </div> <!-- row -->
+      <div id="footer">
+        <!--<p>Built with <a href="http://nanoc.ws/">nanoc</a>.--> Source available on 
+        <a href="https://github.com/aniusl/anisul.github.io">GitHub</a>.</p>
+      </div>
+    </div> <!-- container -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+  <script type="text/javascript" src="js/resume.min.js"></script>
+    <script type="text/javascript">
+       /*
+	   var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-30721226-2']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+	  */
+    </script>
+  </body>
+</html>
