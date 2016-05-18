@@ -10,18 +10,18 @@
   <body>
     <div class="container">
       <div id="avatar-wrap">
-        <img class="pic" src="images/raine.jpg" />
+        <img class="pic" src="images/anis.jpg" />
       </div>
       <div id="header">
         <h1>Anisul Islam</h1>
-        <h2 class="subtitle"><i class="icon-arrow-right"></i>Coder & Web Developer</h2>
+        <h2 class="subtitle"><i class="icon-arrow-right"></i>Full Stack Developer</h2>
       </div> <!-- header -->
 
       <div class="personal">
         <ul>
           <li>
             <span class="mail">
-              <i class="icon-mail"></i> <a href="mailto:raine.virta@gmail.com">anis.2803@gmail.com</a>
+              <i class="icon-mail"></i> <a href="mailto:anis.2803@gmail.com">anis.2803@gmail.com</a>
             </span>
           </li>
           <li>
@@ -43,11 +43,6 @@
             </span>
           </li>
           <li>
-            <span class="facebook">
-              <i class="icon-facebook"></i><a href="http://facebook.com/anis.cse">Facebook</a>
-            </span>
-          </li>
-          <li>
             <span class="linkedin">
               <i class="icon-linkedin"></i><a href="https://bd.linkedin.com/in/anisul-islam-539a1760">LinkedIn</a>
             </span>
@@ -60,9 +55,9 @@
           <h2>Experience</h2>
           <h3>
             Nilavo Technologies Limited
-            <span class="job-title">Junior Software Engineer</span>
           </h3>
-          <span class="time-period">November 2014 – Present</span>
+		  <span class="job-title" style="font-size:16px;">Junior Software Engineer</span>
+          <span class="time-period">November 2014 &mdash; Present</span>
 
           <p>
 			Working in a development team which works on multiple on-premises or private cloud based enterprise file sync and share (EFSS) solutions to keeps data safe and secure within own corporate infrastructure and yet provides flexibility and scalability to meet the needs of internal users.
@@ -77,26 +72,17 @@
           </p> 
 		  -->
           <h3>
-            Nilavo Technologies Limited
-            <span class="job-title">Software Developer Intern</span>
+            Nilavo Technologies Limited         
           </h3>
-          <span class="time-period">October 2013 – December 2013</span>
+		  <span class="job-title" style="font-size:16px;">Software Developer Intern</span>
+          <span class="time-period">October 2013 &mdash; December 2013</span>
 
           <a id="fancybox-devhub" class="thumb">
             <img src="images/devhub-thumb.png" />
           </a>
           <p>
-            Developed and designed apps for Blaast's cloud-powered mobile
-            platform. Built Blaast DevHub with Rails, a web frontend used by
-            3rd-party developers to streamline app publishing.
-          </p>
-          <h3>Nodeta Oy
-            <span class="job-title">Web Software Developer</span>
-          </h3>
-          <span class="time-period">April 2009 – March 2011</span>
-          <p>
             I was part of the team working on building a web application for tracking project tasks status for Nilavo Technologies Ltd. 
-          </p>
+          </p>          
         </div> <!-- employment -->
         <div id="skills" class="span6">
           <h2>Skills</h2>
@@ -154,9 +140,9 @@
         <div id="education" class="oneline-timeline span6">
           <h2>Education</h2>
           <h3>Islamic University of Technology</h3>
-          <span class="time-period">2010 – 2014</span>
+          <span class="time-period">2010 &mdash; 2014</span>
           <h3>Notre Dame College</h3>
-          <span class="time-period">2008 – 2010</span>
+          <span class="time-period">2008 &mdash; 2010</span>
 
           <h2>Hobbies</h2>
           <p>I like to read books and ride bikes.</p>
