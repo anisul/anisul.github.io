@@ -76,10 +76,6 @@
           </h3>
 		  <span class="job-title" style="font-size:16px;">Software Developer Intern</span>
           <span class="time-period">October 2013 &mdash; December 2013</span>
-
-          <a id="fancybox-devhub" class="thumb">
-            <img src="images/devhub-thumb.png" />
-          </a>
           <p>
             I was part of the team working on building a web application for tracking project tasks status for Nilavo Technologies Ltd. 
           </p>          
@@ -143,9 +139,6 @@
           <span class="time-period">2010 &mdash; 2014</span>
           <h3>Notre Dame College</h3>
           <span class="time-period">2008 &mdash; 2010</span>
-
-          <h2>Hobbies</h2>
-          <p>I like to read books and ride bikes.</p>
         </div> <!-- education -->
         <div id="projects" class="span6">
           <!--<h2>Projects & Open Source</h2>
